@@ -1,6 +1,6 @@
 # giphy-tooltip
 
-> A Vue.js project
+> A tooltip component that pops up when a text is selected
 
 ## Build Setup
 
