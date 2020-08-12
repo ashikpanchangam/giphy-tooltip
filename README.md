@@ -1,6 +1,5 @@
 # giphy-tooltip
-
-> A tooltip component that pops up when a text is selected
+A tooltip component that pops up when a text is selected
 
 ## Build Setup
 
